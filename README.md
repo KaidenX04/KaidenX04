@@ -2,7 +2,7 @@
 
 I build software.
 
-<img src="https://github.com/KaidenX04/KaidenX04/blob/main/c--4.svg">
+<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/c--4.svg">
 
 ![](https://github.com/KaidenX04/KaidenX04/blob/main/banner.gif)
 <!--
