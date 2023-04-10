@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I build software.
+
+<img src="https://github.com/KaidenX04/KaidenX04/blob/main/c--4.svg">
+
 ![](https://github.com/KaidenX04/KaidenX04/blob/main/banner.gif)
 <!--
 **KaidenX04/KaidenX04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
