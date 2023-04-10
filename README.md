@@ -2,12 +2,14 @@
 
 I build software.
 
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/c--4.svg">
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/logo-javascript.svg">
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/python-5.svg">
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/microsoft-sql-server-1.svg">
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/html-1.svg">
-<img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/css-3.svg">
+<p float="left">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/c--4.svg">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/logo-javascript.svg">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/python-5.svg">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/microsoft-sql-server-1.svg">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/html-1.svg">
+  <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/css-3.svg">
+</p>
 
 ![](https://github.com/KaidenX04/KaidenX04/blob/main/banner.gif)
 <!--
