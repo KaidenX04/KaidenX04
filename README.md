@@ -10,8 +10,6 @@ I build software.
   <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/html-1.svg">
   <img width="32" height="32" src="https://github.com/KaidenX04/KaidenX04/blob/main/css-3.svg">
 </p>
-
-![](https://github.com/KaidenX04/KaidenX04/blob/main/banner.gif)
 <!--
 **KaidenX04/KaidenX04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
