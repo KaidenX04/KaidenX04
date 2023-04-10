@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://tenor.com/en-CA/view/banner-gif-25870804)
+![](https://github.com/KaidenX04/KaidenX04/blob/main/banner.gif)
 <!--
 **KaidenX04/KaidenX04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
